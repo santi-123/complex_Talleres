@@ -62,5 +62,5 @@ Esta función evoluciona un estado cuántico inicial a través de una serie de m
 
 ### Ejercicios y Problemas
 
-Al igual que los retos, los problemas propuestos pueden ejecutarse de manera sencilla y se pueden analizar los resultados que se obtienen con los datos iniciales propuestos en el código. Como se mencionó anteriormente en el caso de los retos, si se desea experimentar con los valores propuestos, es posible hacerlo.
+Al igual que los retos, los problemas propuestos pueden ejecutarse de manera sencilla y se pueden analizar los resultados que se obtienen con los datos iniciales propuestos en el código.
 
